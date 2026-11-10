@@ -38,5 +38,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Crafted with passion, caffeine, and Linux terminal commands.</sub>
+  <sub> Give me a job </sub>
 </div>
