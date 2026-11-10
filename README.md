@@ -15,7 +15,7 @@
 ### 💻 About Me
 * **🎓 Education:** Third-year Computer Engineering (ICE) student at the **University of Trento**.
 * **🚀 Focus:** Operating systems, low-level systems architecture, database design, and building robust backend components.
-* **🔧 Core Philosophy:** Writing clean, efficient code close to the metal—from custom C/C++ multi-process pipelines to scalable Java applications and Linux automation.
+* **🔧 Core Philosophy:** I love writing clean, efficient code close to the metal.
 
 ---
 
@@ -38,5 +38,5 @@
 ---
 
 <div align="center">
-  <sub> Give me a job </sub>
+  <sub> I NEED A JOB PLS <3  </sub>
 </div>
