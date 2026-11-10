@@ -35,10 +35,6 @@
   <img src="https://github-readme-stats-beta-three-92.vercel.app/api/top-langs/?username=smedoiuandrei&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smedoiuandrei&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
-</p>
-
 ---
 
 <div align="center">
